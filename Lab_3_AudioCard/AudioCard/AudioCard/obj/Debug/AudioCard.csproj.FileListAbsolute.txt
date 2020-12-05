@@ -1,0 +1,15 @@
+C:\Users\vb\Desktop\AudioCard\AudioCard\bin\Debug\AudioCard.exe.config
+C:\Users\vb\Desktop\AudioCard\AudioCard\bin\Debug\AudioCard.exe
+C:\Users\vb\Desktop\AudioCard\AudioCard\bin\Debug\AudioCard.pdb
+C:\Users\vb\Desktop\AudioCard\AudioCard\bin\Debug\Interop.WMPLib.dll
+C:\Users\vb\Desktop\AudioCard\AudioCard\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AudioCard.csprojAssemblyReference.cache
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\Interop.WMPLib.dll
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AudioCard.csproj.ResolveComReference.cache
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AudioCard.Form1.resources
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AudioCard.Properties.Resources.resources
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AudioCard.csproj.GenerateResource.cache
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AudioCard.csproj.CoreCompileInputs.cache
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AudioCard.exe
+C:\Users\vb\Desktop\AudioCard\AudioCard\obj\Debug\AudioCard.pdb

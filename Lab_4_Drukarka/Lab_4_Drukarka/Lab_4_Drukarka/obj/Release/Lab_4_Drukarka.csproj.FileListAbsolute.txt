@@ -1,0 +1,10 @@
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\bin\Release\Lab_4_Drukarka.exe.config
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\bin\Release\Lab_4_Drukarka.exe
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\bin\Release\Lab_4_Drukarka.pdb
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\obj\Release\Lab_4_Drukarka.csprojAssemblyReference.cache
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\obj\Release\Lab_4_Drukarka.MainWindow.resources
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\obj\Release\Lab_4_Drukarka.Properties.Resources.resources
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\obj\Release\Lab_4_Drukarka.csproj.GenerateResource.cache
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\obj\Release\Lab_4_Drukarka.csproj.CoreCompileInputs.cache
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\obj\Release\Lab_4_Drukarka.exe
+C:\Users\vb\Desktop\UP_Lab3_Drukarka_atramentowa\UP_Lab3_Drukarka_atramentowa\obj\Release\Lab_4_Drukarka.pdb
