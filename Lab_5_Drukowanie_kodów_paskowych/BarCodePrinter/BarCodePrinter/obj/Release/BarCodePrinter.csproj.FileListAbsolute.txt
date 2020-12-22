@@ -1,0 +1,24 @@
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Release\BarCodePrinter.exe.config
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Release\BarCodePrinter.exe
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Release\BarCodePrinter.pdb
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Release\Barcode.dll
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\bin\Release\Barcode.xml
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.Form1.resources
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.Properties.Resources.resources
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.csproj.GenerateResource.Cache
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.exe
+C:\Users\lab\Desktop\266666\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.pdb
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\bin\Release\BarCodePrinter.exe.config
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\bin\Release\BarCodePrinter.exe
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\bin\Release\BarCodePrinter.pdb
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\bin\Release\Barcode.dll
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\bin\Release\Barcode.xml
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.csprojAssemblyReference.cache
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.Form1.resources
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.Properties.Resources.resources
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.csproj.GenerateResource.cache
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.csproj.CoreCompileInputs.cache
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.csproj.CopyComplete
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.exe
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\obj\Release\BarCodePrinter.pdb
+C:\Users\vb\Desktop\Bar Code Generator and printer\BarCodePrinter\BarCodePrinter\bin\Release\BarcodeLib.dll
